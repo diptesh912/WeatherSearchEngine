@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Weather Search based on city name",
   "main": "index.js",  
+  "repository": "https://github.com/diptesh912/WeatherSearchEngine.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
